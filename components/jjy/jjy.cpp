@@ -2,9 +2,9 @@
 #include "empty_component.h"
 
 namespace esphome {
-namespace empty_component {
+namespace jjy {
 
-static const char *TAG = "empty_component.component";
+static const char *TAG = "jjy.component";
 
 void JJY::setup() {
 

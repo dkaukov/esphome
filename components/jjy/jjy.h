@@ -3,7 +3,7 @@
 #include "esphome/core/component.h"
 
 namespace esphome {
-namespace empty_component {
+namespace jjy {
 
 class JJY : public Component {
  public:
