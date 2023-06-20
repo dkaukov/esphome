@@ -1,5 +1,5 @@
 #include "esphome/core/log.h"
-#include "empty_component.h"
+#include "jjy.h"
 
 namespace esphome {
 namespace jjy {
